@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xitee1
 - 👀 I’m interested in programming Minecraft Plugins
-- 📫 How to reach me is over Discord Xitee#4395 or join my Server https://discord.gg/p95cB9YQFJ
+- 📫 How to reach me is over Discord Xitee#4395, or join my Server: https://discord.gg/p95cB9YQFJ
 
 <!---
 Xitee1/Xitee1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
