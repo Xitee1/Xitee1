@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xitee1
-- 👀 I’m interested in programming Minecraft Plugins
+- 👀 I’m interested in programming mainly Minecraft plugins, but I also do all different kinds of things
 - 📫 How to reach me is over Discord Xitee#4395, or join my Server: https://discord.gg/p95cB9YQFJ
 
 <!---
