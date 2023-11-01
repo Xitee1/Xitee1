@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Xitee1
+👋 Hi, I’m @Xitee1
+
+
 
 ### Donate
-- [[PayPal.me]](https://paypal.me/xitee) (Send as "friend" for no fees)
+- [[PayPal.me]](https://paypal.me/xitee)
 - [[Donate with PayPal]](https://www.paypal.com/donate/?hosted_button_id=334VA24BGFJMS)
 
 <!---
