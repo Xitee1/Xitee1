@@ -10,7 +10,10 @@
 Xitee1/Xitee1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br><br>
+<br>
+
+<details>
+  <summary>My Repos</summary>
 
 ## My Repos
 ### AppDaemon (HomeAssistant)
@@ -30,10 +33,15 @@ You can click the Preview link to take a look at your changes.
 - [PowerBoard](https://github.com/Xitee1/PowerBoard)
 - [DeathLocation](https://github.com/Xitee1/DeathLocation)
 - [FileSync](https://github.com/Xitee1/FileSync) (abandoned)
+</details>
 
-<br>
+<details>
+  <summary>Other cool projects</summary>
 
 ## Other cool projects
 - [alexa-skill-shopping-list](https://github.com/paranerd/alexa-skill-shopping-list) - Connect HA shopping list with Alexa
 - [SmartTubeNext](https://github.com/yuliskov/SmartTube) - Alternative YT App for Android TV
 - [HyperionScreenCap](https://github.com/sabaatworld/HyperionScreenCap) - Screen capture for Hyperion ambient light (Windows)
+</details>
+
+
