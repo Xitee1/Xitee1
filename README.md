@@ -21,9 +21,6 @@ You can click the Preview link to take a look at your changes.
 - [AD-RoombaMap](https://github.com/Xitee1/AD-RoombaMap)
 - [AD-ThermostatController](https://github.com/Xitee1/AD-ThermostatController)
 
-### HomeAssistant
-- [ha_sonnenbatterie-improved](https://github.com/Xitee1/ha_sonnenbatterie-improved)
-
 ### Diy
 - [multimedia-knob](https://github.com/Xitee1/multimedia-knob)
 - [ESP32-CameraWebServer-improved](https://github.com/Xitee1/ESP32-CameraWebServer-improved)
