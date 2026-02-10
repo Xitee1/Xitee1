@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ❤️ [Donate](/donate.md) if you want to support my work
 
 ## Projects
-Projects that are actively maintained/used by me:
+Maintained/used by me:
 - https://github.com/Xitee1/mcp-radarr-sonarr
 - https://github.com/Xitee1/xitee-docs
 - https://github.com/Xitee1/claude-skills
@@ -22,15 +22,15 @@ Projects that are actively maintained/used by me:
 - https://github.com/Xitee1/AD-RoombaMap
 - https://github.com/Xitee1/SMP
 
-Projects that I'm currently developing:
+Currently developing (not production-ready):
 - https://github.com/Xitee1/package-tracker
 - https://github.com/Xitee1/chapter-extractor
 
-Projects that I'm no longer actively working on:
+No longer actively working on:
 - https://github.com/Xitee1/PowerBoard
 - https://github.com/Xitee1/handbrake-cli-auto-converter
 
-Projects that I have abandoned:
+Abandoned:
 - https://github.com/Xitee1/FileSync
 - https://github.com/Xitee1/DeathLocation
 
