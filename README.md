@@ -19,6 +19,8 @@ Projects that are actively maintained/used by me:
 - https://github.com/Xitee1/ha-thermostat-valve-controller
 - https://github.com/Xitee1/qobuz-dl
 - https://github.com/Xitee1/ha-amoled-theme
+- https://github.com/Xitee1/AD-RoombaMap
+- https://github.com/Xitee1/SMP
 
 Projects that I'm currently developing:
 - https://github.com/Xitee1/package-tracker
