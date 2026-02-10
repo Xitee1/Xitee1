@@ -24,8 +24,10 @@ Projects that I'm currently developing:
 - https://github.com/Xitee1/chapter-extractor
 
 Projects that I'm no longer actively working on:
-- https://github.com/Xitee1/handbrake-cli-auto-converter
 - https://github.com/Xitee1/PowerBoard
+- https://github.com/Xitee1/handbrake-cli-auto-converter
+
+Projects that I have abandoned:
 - https://github.com/Xitee1/FileSync
 - https://github.com/Xitee1/DeathLocation
 
