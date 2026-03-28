@@ -24,13 +24,12 @@ Maintained/used by me:
 
 Currently developing (not production-ready):
 - https://github.com/Xitee1/package-tracker
-- https://github.com/Xitee1/chapter-extractor
 
 No longer actively working on:
-- https://github.com/Xitee1/PowerBoard
-- https://github.com/Xitee1/handbrake-cli-auto-converter
-
-Abandoned:
-- https://github.com/Xitee1/FileSync
+- https://github.com/Xitee1/PowerBoard - Reason: no more interest
+- https://github.com/Xitee1/handbrake-cli-auto-converter - Reason: Currently not encoding much with Handbrake
+- https://github.com/Xitee1/chapter-extractor - Reason: Only works at keyframes. Need to do it manually with LosslessCut.
 - https://github.com/Xitee1/DeathLocation
 
+Abandoned:
+- https://github.com/Xitee1/FileSync - Never worked that well, niche use case and probably better solutions available, no more interest
