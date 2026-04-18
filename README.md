@@ -21,6 +21,7 @@ Maintained/used by me:
 - https://github.com/Xitee1/ha-amoled-theme
 - https://github.com/Xitee1/AD-RoombaMap
 - https://github.com/Xitee1/SMP
+- https://github.com/Xitee1/sleep-timer
 
 Currently developing (not production-ready):
 - https://github.com/Xitee1/package-tracker
