@@ -24,7 +24,7 @@ Maintained/used by me:
 No longer actively working on:
 - https://github.com/Xitee1/PowerBoard - Reason: no more interest
 - https://github.com/Xitee1/handbrake-cli-auto-converter - Reason: Currently not encoding much with Handbrake
-- https://github.com/Xitee1/chapter-extractor - Reason: Only works at keyframes. Need to do it manually with LosslessCut.
+- https://github.com/Xitee1/chapter-extractor - Reason: Only works at keyframes. Need to do it manually with LosslessCut. **Edit**: Working on improved automatic tool
 - https://github.com/Xitee1/DeathLocation
 - https://github.com/Xitee1/claude-skills
 - https://github.com/Xitee1/qobuz-dl (no sub right now)
