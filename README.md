@@ -31,5 +31,8 @@ No longer actively working on:
 - https://github.com/Xitee1/handbrake-cli-auto-converter - Reason: No longer using handbrake
 - https://github.com/Xitee1/qobuz-dl (no sub right now)
 
+# Experiments
+- https://github.com/Xitee1/package-tracker - Tool that gives an overview of all your orders and shippings
+
 Abandoned:
 - https://github.com/Xitee1/FileSync - Never worked that well, niche use case and probably better solutions available, no more interest
