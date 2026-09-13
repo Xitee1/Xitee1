@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 No longer actively working on:
 - https://github.com/Xitee1/PowerBoard - Reason: no more need and interest
 - https://github.com/Xitee1/DeathLocation - Reason: no more need and interest
-- https://github.com/Xitee1/handbrake-cli-auto-converter - Reason: Currently not encoding much with Handbrake
+- https://github.com/Xitee1/handbrake-cli-auto-converter - Reason: No longer using handbrake
 - https://github.com/Xitee1/qobuz-dl (no sub right now)
 
 Abandoned:
